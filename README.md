@@ -14,6 +14,10 @@
 1. Keyword Analysis: https://keywordtool.io
 2. MOZ: https://moz.com/
 
+### Free Tools
+
+1. Google Keyword Planner: https://ads.google.com/home/tools/keyword-planner/
+
 ## Off-page SEO
 
 ### Reading material
