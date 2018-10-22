@@ -23,3 +23,7 @@
 ### Reading material
 
 1. https://www.mdfarukkhan.com/bangla/off-page-seo/
+
+### HTML Checker/Validator
+
+1. W3C HTML Checker: https://validator.w3.org/
