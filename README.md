@@ -1,5 +1,9 @@
 # SEO-Related-Resources
 
+## Domain name idea generator
+
+1. NameMesh: https://www.namemesh.com/
+
 ## Broken Link Checker
 
 ### Chrome Extension
