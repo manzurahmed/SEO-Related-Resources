@@ -6,10 +6,13 @@
 
 ## Broken Link Checker
 
-### Chrome Extension
+### Browser Extension
 
 1. Broken Link Checker: https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch?hl=en
 2. Check My Link: https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en-GB
+3. Keywords Everywhere
+4. MOZbar Chrome extension
+5. SEOquake
 
 ## Keyword Analysis
 
@@ -20,7 +23,9 @@
 
 ### Free Tools
 
-1. Google Keyword Planner: https://ads.google.com/home/tools/keyword-planner/
+1. Google Instant Search (**Very Good Source of Keyword Generator**)
+2. Google Long Tail Search
+3. Google Keyword Planner: https://ads.google.com/home/tools/keyword-planner/
 
 ## Off-page SEO
 
