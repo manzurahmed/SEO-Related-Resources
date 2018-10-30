@@ -33,6 +33,14 @@
 
 1. https://www.mdfarukkhan.com/bangla/off-page-seo/
 
+## Backlink Search
+
+1. Backlinks Helper: https://www.toolsbug.com/backlink-helper.php?source=sidebar
+
 ### HTML Checker/Validator
 
 1. W3C HTML Checker: https://validator.w3.org/
+
+### Generate Meta tag Online
+
+1. https://www.toolsbug.com/generate-meta-tags-online.php
