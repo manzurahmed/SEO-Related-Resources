@@ -26,6 +26,7 @@
 1. Google Instant Search (**Very Good Source of Keyword Generator**)
 2. Google Long Tail Search
 3. Google Keyword Planner: https://ads.google.com/home/tools/keyword-planner/
+4. Google PageSpeed: https://developers.google.com/speed/pagespeed/insights/
 
 ## Off-page SEO
 
