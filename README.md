@@ -49,3 +49,7 @@
 ## SEO Audit
 
 1. https://seositecheckup.com/
+
+## URL Redirect
+
+1. WordPress Plugin - Redirection - https://wordpress.org/plugins/redirection/
