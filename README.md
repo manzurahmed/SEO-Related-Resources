@@ -34,9 +34,10 @@
 
 1. https://www.mdfarukkhan.com/bangla/off-page-seo/
 
-## Backlink Search
+## Backlink
 
 1. Backlinks Helper: https://www.toolsbug.com/backlink-helper.php?source=sidebar
+2. Automatic Backlink Checker: https://chrome.google.com/webstore/detail/automatic-backlink-checke/fkllkmgclnabanhckclcipnddfbindan?hl=en
 
 ### HTML Checker/Validator
 
@@ -53,3 +54,33 @@
 ## URL Redirect
 
 1. WordPress Plugin - Redirection - https://wordpress.org/plugins/redirection/
+
+### HOW TO FIND ACTIVE SOCIAL BOOKMARKING WEBSITES
+
+1. In Google, type "2018 working social bookmarking sites".
+
+### DOFOLLOW LINK SITES
+
+1. http://www.reddit.com/
+
+### NOFOLLOW LINK
+
+1. https://www.bibsonomy.org/
+
+
+## 3. Article Optimization Guide
+
+- Title tag optimization
+- Introduction, Body, Conclusion
+- Keyword Prominence (KW on top 100 Words)
+- Using H1, H2, H3 tags
+- Use Short Paragraph
+- Put Gaps between lines
+- Make it thorough (cover all aspects of your topics)
+
+## 4. On-Page Optimization
+
+After installing WordPress, I need to install some Plugins.
+
+1. First of all, change Permalink of website. Use only "Post name".
+2. Install Yoast plugin.
