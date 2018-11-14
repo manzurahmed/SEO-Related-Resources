@@ -9,7 +9,7 @@
 ### Browser Extension
 
 1. Broken Link Checker: https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch?hl=en
-2. Check My Link: https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en-GB
+2. Check My Link (Brocken Link Checker): https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en-GB
 3. Keywords Everywhere
 4. MOZbar Chrome extension
 5. SEOquake
