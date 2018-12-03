@@ -6,7 +6,7 @@
 
 ## Broken Link Checker
 
-### Browser Extension
+#### Browser Extension
 
 1. Broken Link Checker: https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch?hl=en
 2. Check My Link (Brocken Link Checker): https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en-GB
@@ -16,12 +16,12 @@
 
 ## Keyword Analysis
 
-### Paid Tools
+#### Paid Tools
 
 1. Keyword Analysis: https://keywordtool.io
 2. MOZ: https://moz.com/
 
-### Free Tools
+#### Free Tools
 
 1. Google Instant Search (**Very Good Source of Keyword Generator**)
 2. Google Long Tail Search
@@ -30,7 +30,7 @@
 
 ## Off-page SEO
 
-### Reading material
+#### Reading material
 
 1. https://www.mdfarukkhan.com/bangla/off-page-seo/
 
@@ -39,11 +39,11 @@
 1. Backlinks Helper: https://www.toolsbug.com/backlink-helper.php?source=sidebar
 2. Automatic Backlink Checker: https://chrome.google.com/webstore/detail/automatic-backlink-checke/fkllkmgclnabanhckclcipnddfbindan?hl=en
 
-### HTML Checker/Validator
+#### HTML Checker/Validator
 
 1. W3C HTML Checker: https://validator.w3.org/
 
-### Generate Meta tag Online
+#### Generate Meta tag Online
 
 1. https://www.toolsbug.com/generate-meta-tags-online.php
 
@@ -55,17 +55,18 @@
 
 1. WordPress Plugin - Redirection - https://wordpress.org/plugins/redirection/
 
-### HOW TO FIND ACTIVE SOCIAL BOOKMARKING WEBSITES
+#### HOW TO FIND ACTIVE SOCIAL BOOKMARKING WEBSITES
 
 1. In Google, type "2018 working social bookmarking sites".
 
-### DOFOLLOW LINK SITES
+#### DOFOLLOW LINK SITES
 
 1. http://www.reddit.com/
 
-### NOFOLLOW LINK
+#### NOFOLLOW LINK
 
-1. https://www.bibsonomy.org/
+1. **ALL** SOCIAL SOCIAL MEDIA gives NOFOLLOW link.
+2. https://www.bibsonomy.org/
 
 
 ## 3. Article Optimization Guide
@@ -80,7 +81,7 @@
 
 ## 4. On-Page Optimization
 
-After installing WordPress, I need to install some Plugins.
+After installing **WordPress**, I need to install some Plugins.
 
 1. First of all, change Permalink of website. Use only "Post name".
 2. Install Yoast plugin.
