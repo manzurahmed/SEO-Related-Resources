@@ -39,6 +39,8 @@
 1. Backlinks Helper: https://www.toolsbug.com/backlink-helper.php?source=sidebar
 2. Automatic Backlink Checker: https://chrome.google.com/webstore/detail/automatic-backlink-checke/fkllkmgclnabanhckclcipnddfbindan?hl=en
 
+This extension checks all URLs (links) on a page shows us the type of links they are, Dofollow or Nofollow. Dofollow links are shows in Green color and Nofollow links are marked in Red color.
+
 #### HTML Checker/Validator
 
 1. W3C HTML Checker: https://validator.w3.org/
